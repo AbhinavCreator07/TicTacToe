@@ -1,2 +1,2 @@
 # RockPaperScissor
-This is a simple tictactoe game build using c++, I am currently a begginer to c++.
+This is a simple rock, paper, scissor game build using c++, I am currently a begginer to c++.
